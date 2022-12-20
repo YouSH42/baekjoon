@@ -4,4 +4,3 @@ int_P = list(map(int, P))           #문자열 int형으로 변형
 int_P.sort()
 for i in int_P :
     print(i)
-
